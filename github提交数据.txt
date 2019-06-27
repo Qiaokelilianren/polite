@@ -1,0 +1,16 @@
+
+git  init        初始化
+git status     查看文件的状态
+git  add .      提交文件    要空格
+git commit -m "说明信息,备注"    
+git remote add origin https://github.com/Qiaokelilianren/polite.git
+git push -u origin master
+要输入用户名和密码
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Qiaokelilianren/polite.git
+git push -u origin master
